@@ -2,17 +2,18 @@ Employee Payroll and Utility Management System
 
 Table of Contents
 
-    Overview
-    Features
-    Class and Interface Descriptions
-        PayableEntity Interface
-        Employee Abstract Class
-        HourlyEmployee Class
-        SalariedEmployee Class
-        CommissionEmployee Class
-        LimitedCommissionEmployee Class
-        Utility Class
-        Company Class
+1. Overview
+2. Features
+3. Class and Interface Descriptions
+  - PayableEntity Interface
+  - Employee Abstract Class
+  - HourlyEmployee Class
+  - SalariedEmployee Class
+  - CommissionEmployee Class
+  - LimitedCommissionEmployee Class
+  - Utility Class
+  - Company Class
+   
     Usage
         Compilation and Execution
         Example Output
