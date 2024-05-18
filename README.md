@@ -74,7 +74,7 @@ By running the main method provided, users can see an example of how to create i
 These features together provide a comprehensive system for managing and calculating payroll and utility expenses in a business environment.
 
 
-### Class and Interface Descriptions
+## Class and Interface Descriptions
 
 PayableEntity Interface
 ```
@@ -151,12 +151,14 @@ calculating total expenditures:
 
 
 # Usage
+
 Compilation and Execution
 ```
 javac Main.java
 java Main
 ```
 # Example Output
+
 ```
 Acme Corporation Payroll
 Name            Code Pay      Total Pay
