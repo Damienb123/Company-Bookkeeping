@@ -15,11 +15,6 @@
     - Utility Class
     - Company Class
    
- ## Usage
-- Compilation and Execution
-- Example Output
-- Main Method Demonstration
-  
 ## Overview
 ### Description
 The Employee Payroll and Utility Management System is a Java-based application designed to manage and calculate payroll and utility expenses for companies. The system supports various types of employees, including hourly, salaried, and commission-based employees, as well as utilities that companies may incur.
