@@ -4,7 +4,7 @@
 ## Table of Contents
 
 1. [Overview](#Overview)
-2. [Features](#Features)
+2. [Main Features](#Main-Features)
 3. [Class and Interface Descriptions](#Class-and-Interface-Descriptions)
     - PayableEntity Interface
     - Employee Abstract Class
@@ -14,9 +14,11 @@
     - LimitedCommissionEmployee Class
     - Utility Class
     - Company Class
+4. [Usage](#Usage)
+5. [Example Output](#Example-Output)
    
 ## Overview
-### Description
+
 The Employee Payroll and Utility Management System is a Java-based application designed to manage and calculate payroll and utility expenses for companies. The system supports various types of employees, including hourly, salaried, and commission-based employees, as well as utilities that companies may incur.
 
 This project demonstrates object-oriented programming principles by utilizing interfaces and abstract classes to represent different types of employees and utilities. The Company class serves as a container for employees and utilities, providing methods to add new employees and utilities, calculate total expenditures, and generate detailed payroll and utility reports.
@@ -30,7 +32,7 @@ The key functionalities of the system include:
 
 By running the main method provided, users can see an example of how to create instances of companies, add employees and utilities, and display the payroll and utility information along with the total expenditures. This makes the system a practical tool for understanding and implementing payroll and utility management in a business context.
 
-## Features
+## Main Features
 
 1. Employee Management
     - Hourly Employees: Calculate pay based on hours worked with support for overtime.
